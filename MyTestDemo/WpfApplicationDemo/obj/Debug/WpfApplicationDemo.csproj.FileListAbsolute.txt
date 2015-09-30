@@ -1,0 +1,15 @@
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\bin\Debug\WpfApplicationDemo.exe.config
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\bin\Debug\WpfApplicationDemo.exe
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\bin\Debug\WpfApplicationDemo.pdb
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\bin\Debug\Microsoft.Practices.Composite.dll
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.csprojResolveAssemblyReference.cache
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\MainWindow.baml
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\MainWindow.g.cs
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\App.g.cs
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo_MarkupCompile.cache
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.g.resources
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.Properties.Resources.resources
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.csproj.GenerateResource.Cache
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.exe
+F:\MyTestGitDemo\MyTestDemo\MyTestDemo\WpfApplicationDemo\obj\Debug\WpfApplicationDemo.pdb
