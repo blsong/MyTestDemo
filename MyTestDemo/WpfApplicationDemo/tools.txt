@@ -1,0 +1,113 @@
+﻿在网上看到一个很不错的Git教程，学习后果断要做一下总结。
+
+教程地址：http://www.liaoxuefeng.com/
+
+ 
+
+总结要点：
+
+安装Git
+因为我个人的开发主要是基于windows环境下，所以需要下载工具来模拟环境。
+msysgit是Windows版的Git，从http://msysgit.github.io/下载，然后按默认选项安装即可。
+安装完成后，在开始菜单里找到“Git”->“Git Bash“，然后就可以通过命令行来控制Git操作。
+
+ 
+
+创建版本库
+想指定一个目录为要管理的仓库，使用git init命令。在这个目录下会生成一个.git目录。
+这个目录中保存着Git的跟踪信息。
+
+ 
+
+添加文件到版本库
+1、使用git add把文件添加到Git仓库。
+2、使用git commit把文件提交到Git仓库。
+
+ 
+
+查看版本状态
+使用git status命令。
+
+ 
+
+查看提交日志
+使用git log命令。
+
+ 
+
+撤销修改
+使用git checkout -- file命令。
+
+ 
+
+回退版本
+使用git reset --hard 版本号。
+
+ 
+
+从版本库中删除文件
+git rm 文件名
+
+ 
+
+ 
+
+安装Git
+因为我个人的开发主要是基于windows环境下，所以需要下载工具来模拟环境。
+msysgit是Windows版的Git，从http://msysgit.github.io/下载，然后按默认选项安装即可。
+安装完成后，在开始菜单里找到“Git”->“Git Bash“，然后就可以通过命令行来控制Git操作。
+
+创建版本库
+想指定一个目录为要管理的仓库，使用git init命令。在这个目录下会生成一个.git目录。
+这个目录中保存着Git的跟踪信息。
+
+添加文件到版本库
+1、使用git add把文件添加到Git仓库。
+2、使用git commit把文件提交到Git仓库。
+
+查看版本状态
+使用git status命令。
+
+查看提交日志
+使用git log命令。
+
+撤销修改
+使用git checkout -- file命令。
+
+回退版本
+使用git reset --hard 版本号
+
+从版本库中删除文件
+git rm 文件名
+
+ 
+
+ 
+
+安装Git
+因为我个人的开发主要是基于windows环境下，所以需要下载工具来模拟环境。
+msysgit是Windows版的Git，从http://msysgit.github.io/下载，然后按默认选项安装即可。
+安装完成后，在开始菜单里找到“Git”->“Git Bash“，然后就可以通过命令行来控制Git操作。
+
+创建版本库
+想指定一个目录为要管理的仓库，使用git init命令。在这个目录下会生成一个.git目录。
+这个目录中保存着Git的跟踪信息。
+
+添加文件到版本库
+1、使用git add把文件添加到Git仓库。
+2、使用git commit把文件提交到Git仓库。
+
+查看版本状态
+使用git status命令。
+
+查看提交日志
+使用git log命令。
+
+撤销修改
+使用git checkout -- file命令。
+
+回退版本
+使用git reset --hard 版本号
+
+从版本库中删除文件
+git rm 文件名
